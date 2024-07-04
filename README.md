@@ -8,9 +8,9 @@ Accurate cancer diagnosis and prediction remain challenging due to the limitatio
 
 ## Final Deliverables
 
-- [Final Report](./Final_Report.pdf)
-- [Project Demo](./Project_Demo.mp4)
-- [Poster](./Poster.pdf)
-- [IRP Slides](./IRP_Slides.pdf)
+- [Final Report](https://sdmay24-47.sd.ece.iastate.edu/FinalReport_sdmay24-47.pdf)
+- [Project Demo](https://sdmay24-47.sd.ece.iastate.edu/sdmay24-47demo.mp4)
+- [Poster](https://sdmay24-47.sd.ece.iastate.edu/Accurate%20Cancer%20Prediction.pdf)
+- [IRP Slides](https://sdmay24-47.sd.ece.iastate.edu/IRP_sdmay24-47.pdf)
 
 ### [Team Page](https://sdmay24-47.sd.ece.iastate.edu/#designdocuments)
